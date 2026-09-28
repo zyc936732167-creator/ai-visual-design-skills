@@ -1,0 +1,11 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Outputs (过程稿/终稿不入库)
+output/
+final/
+*.local.*
